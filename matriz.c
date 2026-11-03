@@ -40,7 +40,7 @@ int main(){
         
         for(int j = 0; j<C; j++){
             printf("%d ", matriz[i][j]);
-
+            
         }
         printf("\n");
     }
